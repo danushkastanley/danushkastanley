@@ -1,119 +1,55 @@
-## Hi, I'm Dan 👋
+## Dan Stanley
 
-Senior DevOps Engineer building high-signal tools at the intersection of **AI, security, and cloud infrastructure**.
+**Senior DevOps Engineer** · Sri Lanka
+MSc Cybersecurity & Forensics (Distinction) · University of Westminster
 
-📍 Sri Lanka
-🎓 MSc in Cybersecurity & Forensics
-🧠 DevOps · Kubernetes · MLOps · Cloud Security
-🛠️ Builder > dashboards · signal > noise
+Specializing in AWS, Kubernetes, Infrastructure as Code, and CI/CD automation across multi-region production environments. Security-first mindset with practical experience in runtime protection, eBPF, and MLSecOps.
 
 ---
 
-### 🧰 Tech Stack
+### What I Do
 
-**☁️ Cloud & Infrastructure**
-AWS · Kubernetes (EKS) · Terraform · Docker · CI/CD · Infrastructure as Code
+- Design and operate multi-region AWS production platforms (EKS, RDS, MSK, ElastiCache, DynamoDB)
+- Build reusable Terraform module libraries and IaC-first delivery pipelines
+- Automate CI/CD workflows across GitHub Actions, Jenkins, and Buildkite
+- Implement security controls at scale without slowing delivery
+- Improve reliability through Datadog observability and incident response
 
-**🔐 Security & Operations**
-Runtime Security · eBPF · MLSecOps · Linux Hardening · Observability · Monitoring
+### Stack
 
-**💻 Development**
-Python · Go · Rust · Bash · Automation · Scripting
+- **Cloud:** AWS (EKS, ECS, VPC, IAM, RDS, S3, SQS/SNS, MSK, ElastiCache)
+- **Infrastructure:** Terraform, Kubernetes, Docker, multi-cloud delivery
+- **Automation:** CI/CD pipelines, Bash/Python scripting, Playwright validation
+- **Observability:** Datadog (APM/logs/monitors), ELK, CloudWatch, PagerDuty
+- **Security:** IAM least privilege, SDLC controls, vulnerability scanning, eBPF research
+- **Languages:** Python, Go, Rust, Bash
 
-**🤖 AI & ML**
-MLOps · LLM Integration · AI Tooling · Practical AI Implementation
+### Current Focus
 
-**Philosophy:** Ship useful things, avoid hype, optimize for clarity.
+- **InsightPress** · Draft-only X posts from trusted tech sources with optional LLM support
+  → [github.com/danushkastanley/insightpress](https://github.com/danushkastanley/insightpress)
 
----
+- **eBPF Runtime Security** · Research from MSc dissertation on next-gen RASP for containerized workloads
+  Focus: real-world operability, not alert spam
 
-### ⭐ Featured Work
+- **MLSecOps** · Exploring security patterns for ML pipelines and model deployments
 
-<table>
-<tr>
-<td width="50%">
+### Selected Highlights
 
-**📰 [InsightPress](https://github.com/danushkastanley/insightpress)**
+- Reduced MTTA from hours → ~1 minute and MTTR from ~4–5 hours → <1 hour via Datadog migration
+- Automated deployment validation (60 mins → 10 mins) with Playwright + evidence-backed notifications
+- Rolled out SonarQube gates + OWASP ZAP automation across 300+ repositories
+- Built 30+ Terraform module library to standardize multi-region AWS environments
+- Migrated production from Elastic Beanstalk to EKS with IaC-first change control
+- TryHackMe: Top 2% ranking (2024)
 
-Draft-only X posts from trusted tech & AI sources.
-Optional LLM support (OpenAI/Claude/Gemini) with strict editorial rules.
-
-`Python` `AI` `Twitter` `Automation`
-
-*Signal over noise. Human review always.*
-
-</td>
-<td width="50%">
-
-**🔐 Kubernetes Runtime Security**
-
-eBPF-based runtime protection for containerized workloads.
-Research-focused, operability-first approach.
-
-`eBPF` `Kubernetes` `Security` `OSS`
-
-*Real-world operability, not alert spam.*
-
-</td>
-</tr>
-</table>
-
----
-
-### 🚀 Current Projects
-
-**📦 Infrastructure & DevOps Tooling**
-Opinionated Terraform modules, CI/CD patterns, and operational automation.
-`Terraform` `AWS` `Kubernetes` `GitOps`
-
-**🛡️ MLSecOps Research**
-Exploring security patterns for ML pipelines and model deployments.
-`MLOps` `Security` `Cloud Native`
-
----
-
-### 🧠 How I think about software
+### Philosophy
 
 - Fewer features, stronger guarantees
-- Automation should **reduce** cognitive load
-- If it needs a dashboard, question the design
-- Security is not a feature—it's a foundation
+- Automation should reduce cognitive load
+- Security is a foundation, not a feature
+- Ship useful things, avoid hype
 
 ---
 
-### 🌱 Currently exploring
-
-- MLOps & MLSecOps patterns
-- AI-assisted developer tooling
-- On-device vs cloud AI trade-offs
-- Building small, sustainable OSS tools
-- Rust for infrastructure tooling
-
----
-
-### 📫 Connect
-
-- 🌐 Website: [danushkastanley.com](https://www.danushkastanley.com)
-- 💼 GitHub: [@danushkastanley](https://github.com/danushkastanley)
-- 📧 Open to collaborations on DevOps, Security, and AI tooling projects
-
----
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-</div>
-
----
-
-<div align="center">
-<i>Start with <b>InsightPress</b> if you're here to browse code.</i>
-</div>
+**Connect:** [danushkastanley.com](https://www.danushkastanley.com) · [github.com/danushkastanley](https://github.com/danushkastanley)
