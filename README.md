@@ -1,4 +1,4 @@
-## Dan Stanley
+## Danushka Stanley
 
 **Senior DevOps Engineer** · Sri Lanka
 MSc Cybersecurity & Forensics (Distinction) · University of Westminster
